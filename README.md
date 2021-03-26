@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RokCK
-- 🌱 I’m currently learning Web Development: Python, Ruby, PHP, Angular and React.
-
-<!---
-RokCK/RokCK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+- 🌱 I’m currently learning to increase my skills on: Python, Ruby, PHP, Angular, React, Vue & HTML/CSS.
+-  Also, I have some experience working with some different DBs: MySQL/MariaDB, PostgreSQL, Oracle, DB2.
+-  Moreover, there are some OS that I administrate: RedHat/CentOS, Ubuntu/Debian, AIX, Windows, MacOS.
+-  Finnally, I have been part of ETL teams by using: Hadoop, KDB+, DataStage, Informatica, SAP BO.
+-  I believe development is a nice path where I belong, totally happy to be part of enjoyable projects.
